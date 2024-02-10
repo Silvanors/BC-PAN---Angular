@@ -28,4 +28,4 @@
     - iniciar servidor com: ng serve
     - componentes no projeto com o comando: ng genarate component title ou ng g c title
     - na documentação do angular recaptular os 8 ciclos de vida do componente - "Component lifecycle" se necessário
-    - 
+    - Se precisar gerar um módulo: "ng g m lista", aqui criamos um módulo em um apasta que se chamará "lista" no projeto
